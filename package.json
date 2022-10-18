@@ -1,0 +1,16 @@
+{
+  "name": "11_ts-restserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josefl19",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.8.4"
+  }
+}
